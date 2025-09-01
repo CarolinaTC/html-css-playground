@@ -9,12 +9,12 @@ You can get inspired by FIFA cards, football players, or anything else you like.
 
 ### Structure (HTML)
 
-- A **main container** (`.card`)  
-- A **header** (`.card__header`)  
-- A **profile picture (avatar)** in a **circle** (`.card__avatar`)  
+- A **main container** 
+- A **header** 
+- A **profile picture (avatar)** in a **circle** 
 - The **person’s name** (e.g. `<h2>`)  
 - A **short description** (e.g. `<p>`)  
-- An **action button** at the bottom with a text of your choice (`.card__btn`)  
+- An **action button** at the bottom with a text of your choice   
 
 ### Styling (CSS)
 
